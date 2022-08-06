@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle play-slot",
+        "command": "play-slot:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "play-slot",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "play-slot:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "play-slot",
+  "main": "./lib/play-slot",
+  "version": "1.0.0",
+  "description": "Ini Web Slot Free Play Slot Cepat Menang",
+  "keywords": ["slot spade gaming","games slot gampang menang","slot online terbaik","slot spade gaming","agen toto play","slot online","slot joker gaming","slot microgaming"],
+
+  "activationCommands": {
+    "atom-workspace": "play-slot:toggle"
+  },
+  "repository": "https://github.com/gameslotterpercaya85/play-slot",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
